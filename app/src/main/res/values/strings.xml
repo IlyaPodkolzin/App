@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="stats">СТАТИСТИКА НАЖАТИЯ НА ОКНО:\n</string>
+    <string name="stats2">СТАТИСТИКА НАЖАТИЯ НА ОКНО\n(несколько пальцев):</string>
+    <string name="hello_str">Hello test!</string>
+    <string name="btn1">Кнопка</string>
+    <string name="btn2">Сообщение</string>
+    <string name="ura">УРА!!!</string>
+</resources>
